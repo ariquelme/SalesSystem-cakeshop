@@ -3,7 +3,7 @@ package com.sgsvp.entidades;
 
 /**
  *
- * @author jhernandez
+ * @author ariquelme
  */
 public abstract class TipoDocumento {
     

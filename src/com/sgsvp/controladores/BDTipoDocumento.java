@@ -15,7 +15,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jueleto
+ * @author ariquelme
  */
 public  abstract class BDTipoDocumento {
     
