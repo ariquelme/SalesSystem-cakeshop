@@ -1,2 +1,2 @@
-# javaswing-facturacion
-Sistema de facturación experimental en java Swing para Netbeans
+# SalesSystem-cakeshop
+Sistema de ventas para reposterias - Java Swing con MySql
